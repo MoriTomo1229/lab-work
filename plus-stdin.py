@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FilCopyrightText: 2022 Tomohiro Morikuni
+# SPDX-License-Identifier: GPL-3.0
+
 import sys
 
 ans = 0.0
