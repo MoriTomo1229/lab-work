@@ -1,4 +1,7 @@
 #!/bin/bash
+# SPDX-FilCopyrightText: 2026 Tomohiro Morikuni
+# SPDX-License-Identifier: GPL-3.0
+
 ng (){
     echo NG at Line $1
     res=1
