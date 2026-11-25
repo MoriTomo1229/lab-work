@@ -5,7 +5,7 @@
 リポジトリ直下で実行します。
 
 ```console
-$ ./第6回/test.bash
+$ ./第06回/test.bash
 OK
 $ echo $?
 0

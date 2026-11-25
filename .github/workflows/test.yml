@@ -9,4 +9,4 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: All test
-              run: bash -xv ./第6回/test.bash
+              run: bash -xv ./第06回/test.bash

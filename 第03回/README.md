@@ -20,7 +20,7 @@ PowerPoint は画像中心の構成のため、画像内のコードと実行例
 
 ## 実行方法
 
-すべてのファイルにシバン行と実行権限を付けています。`第3回` ディレクトリで実行してください。
+すべてのファイルにシバン行と実行権限を付けています。`第03回` ディレクトリで実行してください。
 
 ### 1. 引数の処理（`args.py`）
 
@@ -154,7 +154,7 @@ $ seq 10 | ./plus_stdin.py
 $ echo あ | ./plus_stdin.py > ans 2> err
 $ cat err
 Traceback (most recent call last):
-  File ".../第3回/plus_stdin.py", line 6, in <module>
+  File ".../第03回/plus_stdin.py", line 6, in <module>
     ans += float(line)
 ValueError: could not convert string to float: 'あ\n'
 ```
